@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\SquareCalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\user\source\repos\SquareCalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\user\source\repos\SquareCalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\user\source\repos\SquareCalculatorTest\bin\Debug\SquareCalculatorTest.dll
+C:\Users\user\source\repos\SquareCalculatorTest\bin\Debug\SquareCalculatorTest.pdb
+C:\Users\user\source\repos\SquareCalculatorTest\bin\Debug\ClassLibrary3.dll
+C:\Users\user\source\repos\SquareCalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\user\source\repos\SquareCalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\user\source\repos\SquareCalculatorTest\bin\Debug\ClassLibrary3.pdb
+C:\Users\user\source\repos\SquareCalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\user\source\repos\SquareCalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\user\source\repos\SquareCalculatorTest\obj\Debug\SquareCalculatorTest.csprojAssemblyReference.cache
+C:\Users\user\source\repos\SquareCalculatorTest\obj\Debug\SquareCalculatorTest.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SquareCalculatorTest\obj\Debug\SquareCalculatorTest.csproj.CopyComplete
+C:\Users\user\source\repos\SquareCalculatorTest\obj\Debug\SquareCalculatorTest.dll
+C:\Users\user\source\repos\SquareCalculatorTest\obj\Debug\SquareCalculatorTest.pdb
